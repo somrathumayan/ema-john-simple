@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+}
+.product img{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.product-name{
+    color: blue;
+    font-weight: 400;
+}
